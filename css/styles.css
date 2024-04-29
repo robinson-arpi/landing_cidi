@@ -17,6 +17,10 @@
   max-width: 100%; /* Ajusta el tamaño máximo del logo */
 }
 
+.dropdown-item:active {
+  background-color: var(--color-B) !important;
+}
+
 .text-justify {
   text-align: justify !important;
 }
